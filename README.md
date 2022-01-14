@@ -1,8 +1,8 @@
 # php-database
-> create database with php
-*italic font*
+> create database with php <br>
+*italic font* <br>
 <br>
 
-<hr>
-**bold text**
-~~undderlineL~~
+<hr> 
+**bold text** <br>
+~~undderlineL~~ <br>
